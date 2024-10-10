@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devashya
-- 👀 I’m interested in work as developer.
+- 👀 I’m interested in working as a developer.
 - 🌱 I’m currently learning PHP and Python.
 - 📫 Reach me on devashya.1312@gmail.com
 
